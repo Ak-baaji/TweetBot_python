@@ -1,4 +1,4 @@
-#Autor Abdulkadir M.sh.Hassen Baaji
+#Autor Abdulkadir M.Hassen Baaji
 # 10/23/19
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
